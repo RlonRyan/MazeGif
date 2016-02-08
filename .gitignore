@@ -1,0 +1,8 @@
+#################
+## GitIgnore
+#################
+
+/nbproject/*
+/build/*
+
+build.xml
